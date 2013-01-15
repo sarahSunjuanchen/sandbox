@@ -1,4 +1,4 @@
-sanbox
+sandbox
 ======
 
 this is a test
